@@ -1,0 +1,27 @@
+{
+	"dataImages": [
+		{
+			"title": "imagen de hero publicaiones",
+			"url": "https://i.ibb.co/BByS9kr/imagen-publicaciones.jpg)"
+		},
+		{
+			"title": "imagen de hero landing",
+			"url": "https://i.ibb.co/t28j85z/imagen-landing.jpg)"
+		},
+		{
+			"title": "imagen de login",
+			"url": "https://i.ibb.co/dD4vk7c/fondo-ingreso-registro.jpg)"
+		},
+		{
+			"bgVerde": "https://i.ibb.co/Xkzqzxz/BG.png"
+		},
+		{
+			"title": "imagen de formulario de contacto",
+			"url": "https://i.ibb.co/bN8z0xy/ubuntu-contact-Form.jpg"
+		},
+		{
+			"title": "imagen de hero de categorias",
+			"url": "https://i.ibb.co/Y7KQzPh/ubuntu-categorias.jpg"
+		}
+	]
+}

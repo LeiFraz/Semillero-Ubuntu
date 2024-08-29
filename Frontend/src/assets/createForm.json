@@ -1,0 +1,79 @@
+{  
+  "dataForm": [  
+    {  
+      "title": "Carga de Microemprendimiento",  
+      "subtitle": "Completá el formulario para cargar un Microemprendimiento",  
+      "button2": "Cargar Microemprendimiento",
+      "fieldLabels":[
+         {  
+        "nombre": {  
+          "label": "Nombre del Microemprendimiento",  
+          "subtitle": "Se visualizará en el título de la publicación"  
+        },  
+        "categoria": {  
+          "label": "Categoria",  
+          "subtitle": "Seleccioná la categoría del Microemprendimiento",  
+          "item1": {"id": 1,
+                    "name": "Economía social/ Desarrollo local/ Inclusión financiera"},  
+           "item2": {"id": 2,
+                    "name":"Agroecología/ Orgánicos/ Alimentación saludable"},  
+           "item3": {"id": 3,
+                    "name":"Conservación/ Regeneración/ Servicios ecosistémicos"}, 
+           "item4": {"id": 4,
+                    "name":"Empresas/ Organismos de impacto/ Economía circular"}  
+            } ,   
+        "subcategoria": {  
+          "label": "Subcategoria",  
+          "subtitle": "Escribi la subcategoría del Microemprendimiento"  
+        },  
+        "pais": {  
+          "label": "Pais",  
+          "subtitle": "Seleccioná un País de la lista",
+          "item1":{"id": 12,
+                    "name":"Argentina"},  
+          "item2": {"id": 22,
+                    "name":"Chile"},  
+          "item3": {"id": 32,
+                    "name":"Colombia"}, 
+          "item4": {"id": 42,
+                    "name":"Uruguay" }  
+        },  
+        "provincia": {  
+          "label": "Provincia/Estado",  
+          "subtitle": "Seleccioná una Provincia/Estado de la lista",
+           "item1": {"id": 1,
+                    "name": "La Rioja"
+                    } , 
+          "item2": {"id": 2,
+                    "name": "Vizcaya"
+                    },    
+          "item3": {"id": 3,
+                    "name": "Chaco"
+                    }  , 
+          "item4": {"id": 4,
+                    "name": "Jujuy"
+                    } ,
+          "item5": {"id": 5,
+                    "name": "Cordoba"
+                    },
+          "item6": {"id": 6,
+                    "name": "Monterrey"
+                    } 
+        },  
+        "ciudad": {  
+          "label": "Ciudad",  
+          "subtitle": "Sin abreviaturas, nombre completo"  
+        },  
+        "descripcion": {  
+          "label": "Descripción del Microemprendimiento",  
+          "subtitle": "Máximo 300 caracteres                                     0/300"  
+        },  
+        "informacion": {  
+          "label": "Más información del Microemprendedor",  
+          "subtitle": "Máximo 300 caracteres                                     0/300"  
+        }
+      }  
+    ]
+    }  
+  ]  
+}

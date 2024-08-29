@@ -1,0 +1,56 @@
+{
+	"dataEmprendimientos": [
+		{
+			"title": "EcoSenda",
+			"images": [
+				"https://i.ibb.co/Xb1s83g/card-ejemplo-micro-imagesn1.jpg",
+				"https://i.ibb.co/2kBGgFC/card-ejemplo-micro-imagen2.jpg",
+				"https://i.ibb.co/6bnpsct/card-ejemplo-micro-imagen3.jpg"
+			],
+			"subtitle": "Finca agroecológica",
+			"category": ["Agroecología", "Orgánicos", "Alimentación saludable"],
+			"ubi": "Tunuyán, Mendoza, Argentina",
+			"description": "Promueven un modelo de agricultura sostenible, protegiendo el medio ambiente, el agua y las semillas autóctonas. Cultivan frutas, verduras, plantas medicinales y crean derivados. Editan también contenidos educativos, gestionan un banco de semillas y comercializan o intercambian excedentes.",
+			"information": "Nació del sueño de restaurar la salud y adoptar un estilo de vida ideal. Este proyecto familiar creció fundamentado en la permacultura, biodinámica y agroecología, comprometiéndose con la soberanía alimentaria, el bienestar, el regreso al campo, la venta directa y la dignidad de la vida campesina."
+		},
+		{
+			"title": "EcoSenda",
+			"category": ["Agroecología", "Orgánicos", "Alimentación saludable"],
+			"images": [
+				"https://i.ibb.co/6bnpsct/card-ejemplo-micro-imagen3.jpg",
+				"https://i.ibb.co/2kBGgFC/card-ejemplo-micro-imagen2.jpg",
+				"https://i.ibb.co/Xb1s83g/card-ejemplo-micro-imagesn1.jpg"
+			],
+			"subtitle": "Finca agroecológica",
+			"ubi": "Tunuyán, Mendoza, Argentina",
+			"description": "Promueven un modelo de agricultura sostenible, protegiendo el medio ambiente, el agua y las semillas autóctonas. Cultivan frutas, verduras, plantas medicinales y crean derivados. Editan también contenidos educativos, gestionan un banco de semillas y comercializan o intercambian excedentes.",
+			"information": "Nació del sueño de restaurar la salud y adoptar un estilo de vida ideal. Este proyecto familiar creció fundamentado en la permacultura, biodinámica y agroecología, comprometiéndose con la soberanía alimentaria, el bienestar, el regreso al campo, la venta directa y la dignidad de la vida campesina."
+		},
+		{
+			"title": "EcoSenda",
+			"category": ["Agroecología", "Orgánicos", "Alimentación saludable"],
+			"images": [
+				"https://i.ibb.co/2kBGgFC/card-ejemplo-micro-imagen2.jpg",
+				"https://i.ibb.co/Xb1s83g/card-ejemplo-micro-imagesn1.jpg",
+				"https://i.ibb.co/6bnpsct/card-ejemplo-micro-imagen3.jpg"
+			],
+			"subtitle": "Finca agroecológica",
+			"ubi": "Tunuyán, Mendoza, Argentina",
+			"description": "Promueven un modelo de agricultura sostenible, protegiendo el medio ambiente, el agua y las semillas autóctonas. Cultivan frutas, verduras, plantas medicinales y crean derivados. Editan también contenidos educativos, gestionan un banco de semillas y comercializan o intercambian excedentes.",
+			"information": "Nació del sueño de restaurar la salud y adoptar un estilo de vida ideal. Este proyecto familiar creció fundamentado en la permacultura, biodinámica y agroecología, comprometiéndose con la soberanía alimentaria, el bienestar, el regreso al campo, la venta directa y la dignidad de la vida campesina."
+		},
+		{
+			"title": "EcoSenda",
+			"category": ["Agroecología", "Orgánicos", "Alimentación saludable"],
+			"images": [
+				"https://i.ibb.co/Xb1s83g/card-ejemplo-micro-imagesn1.jpg",
+				"https://i.ibb.co/Xb1s83g/card-ejemplo-micro-imagesn1.jpg",
+				"https://i.ibb.co/Xb1s83g/card-ejemplo-micro-imagesn1.jpg"
+			],
+			"subtitle": "Finca agroecológica",
+			"ubi": "Tunuyán, Mendoza, Argentina",
+			"description": "Promueven un modelo de agricultura sostenible, protegiendo el medio ambiente, el agua y las semillas autóctonas. Cultivan frutas, verduras, plantas medicinales y crean derivados. Editan también contenidos educativos, gestionan un banco de semillas y comercializan o intercambian excedentes.",
+			"information": "Nació del sueño de restaurar la salud y adoptar un estilo de vida ideal. Este proyecto familiar creció fundamentado en la permacultura, biodinámica y agroecología, comprometiéndose con la soberanía alimentaria, el bienestar, el regreso al campo, la venta directa y la dignidad de la vida campesina."
+		}
+	]
+}

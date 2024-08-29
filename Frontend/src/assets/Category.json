@@ -1,0 +1,8 @@
+{
+    "data": [
+        {"id": 1 ,"name": "Economía social/Desarrollo local/Inclusión financiera", "url": "/src/assets/images/category/economia-social.png"},
+        {"id": 2 ,"name": "Agroecología/Orgánicos/ Alimentación saludable", "url": "/src/assets/images/category/Agroecologia.png"},
+        {"id": 3 ,"name": "Conservación/Regeneración/ Servicios ecosistémicos", "url": "/src/assets/images/category/Conservacion.png"},
+        {"id": 4 ,"name": "Empresas/Organismos de impacto/Economía circular", "url": "/src/assets/images/category/Empresas.png"}
+    ] 
+}
