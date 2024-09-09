@@ -1,7 +1,9 @@
-#Semillero - Ubuntu
-Proyecto llevado a cabo durante 10 semanas, donde participé como Desarrollador Frontend
+# Semillero - Ubuntu
 
-##Objetivo
+Proyecto llevado a cabo durante 10 semanas, donde participé como Desarrollador Frontend.
+
+## Objetivo
+
 Hemos desarrollado una página web destinada a impulsar el crecimiento de microemprendimientos, brindándoles oportunidades de financiamiento y mayor visibilidad. Los emprendedores pueden crear publicaciones en una de las cuatro categorías disponibles, permitiendo a los clientes conocer más sobre su propuesta. En caso de interés, los clientes pueden completar un formulario de contacto para obtener más información. Además, hemos implementado un chatbot para resolver dudas y consultas en tiempo real.
 
 La plataforma también incluye un panel de control (dashboard) donde los emprendedores pueden acceder a estadísticas mensuales y gestionar las solicitudes de contacto de manera eficiente.
